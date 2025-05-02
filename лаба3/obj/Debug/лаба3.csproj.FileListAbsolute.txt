@@ -1,0 +1,14 @@
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\bin\Debug\лаба3.exe.config
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\bin\Debug\лаба3.exe
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\bin\Debug\лаба3.pdb
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\obj\Debug\лаба3.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\obj\Debug\MainWindow.g.cs
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\obj\Debug\App.g.cs
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\obj\Debug\лаба3_MarkupCompile.cache
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\obj\Debug\MainWindow.baml
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\obj\Debug\лаба3.g.resources
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\obj\Debug\лаба3.Properties.Resources.resources
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\obj\Debug\лаба3.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\obj\Debug\лаба3.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\obj\Debug\лаба3.exe
+C:\Users\Михаил\Desktop\технологии прикладного программирования\лаба3\obj\Debug\лаба3.pdb
