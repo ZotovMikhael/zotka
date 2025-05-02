@@ -1,0 +1,31 @@
+﻿<Window x:Class="GuessNumber.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Угадай число" Height="250" Width="400">
+    <Grid Margin="15">
+        <StackPanel>
+            <TextBlock Text="{Binding Message}" 
+                       Margin="0 0 0 10"
+                       FontSize="14"
+                       TextWrapping="Wrap"/>
+
+            <TextBox Text="{Binding UserGuess, UpdateSourceTrigger=PropertyChanged}"
+                     Margin="0 0 0 10"
+                     FontSize="14"
+                     VerticalContentAlignment="Center">
+                <TextBox.InputBindings>
+                    <KeyBinding Key="Enter" Command="{Binding CheckGuessCommand}"/>
+                </TextBox.InputBindings>
+            </TextBox>
+
+            <Button Content="Проверить число" 
+                    Command="{Binding CheckGuessCommand}"
+                    Margin="0 0 0 10"
+                    Padding="10 5"
+                    FontSize="14"/>
+
+            <TextBlock Text="{Binding Attempts, StringFormat='Попыток: {0}'}"
+                       FontSize="14"/>
+        </StackPanel>
+    </Grid>
+</Window>
